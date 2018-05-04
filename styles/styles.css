@@ -38,7 +38,7 @@ li:hover {
 .link:hover {
     transition-duration: 1.2s;
     text-decoration: none;
-    color: #3746aa;
+    color: #384bcb;
 }
 
 li:disabled {
